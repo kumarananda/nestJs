@@ -1,0 +1,16 @@
+01 
+ npm i -g @nestjs/cli
+
+ 02
+ cmd >> nest new . or nest new projectName
+
+03
+ select npm or yarn 
+
+ 04 // start
+ npm run start (for dev)
+
+ if required
+  npm install --silent
+
+npm run start
